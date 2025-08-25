@@ -1,0 +1,10 @@
+factors to consider when filtering music: 
+- people who listen to this artist also listen to...
+- top 3 associated genres
+- musical modes?
+- tempo
+- consider producer as well as artist
+
+to do:
+- determine how to prioritise factors
+- use fft to extract sonic features

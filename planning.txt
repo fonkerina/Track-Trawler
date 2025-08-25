@@ -1,3 +1,4 @@
+NOTES:
 factors to consider when filtering music: 
 - people who listen to this artist also listen to...
 - top 3 associated genres
@@ -5,6 +6,9 @@ factors to consider when filtering music:
 - tempo
 - consider producer as well as artist
 
-to do:
 - determine how to prioritise factors
 - use fft to extract sonic features
+
+PLAN:
+1. Percussion wizard outline
+2. 
